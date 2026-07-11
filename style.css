@@ -460,3 +460,19 @@ p {
     align-items: flex-start;
   }
 }
+.site-nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #1f2937;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.site-nav a:hover {
+    color: #0f172a;
+}
