@@ -2,19 +2,77 @@
   "reports": [
     {
       "id": "BI-001",
+      "slug": "why-hasnt-anyone-copied-asml",
+
       "title": "Why hasn't anyone copied ASML?",
+      "subtitle": "Understanding ASML's Value Chain and Competitive Advantage",
+
       "company": "ASML",
       "industry": "Semiconductor Equipment",
+      "sector": "Technology",
+
       "topic": "Value Chain",
+
+      "tags": [
+        "Value Chain",
+        "Semiconductors",
+        "Competitive Advantage",
+        "Manufacturing",
+        "Innovation"
+      ],
+
+      "status": "published",
+      "featured": true,
+
       "published": "2026-07-01",
-      "coverImage": "assets/images/asml-cover.svg",
+      "lastUpdated": "2026-07-01",
+      "version": "1.0",
+
+      "readingTime": "12 min",
+
+      "coverImage": "assets/images/asml-cover.webp",
+      "thumbnail": "assets/images/asml-thumb.webp",
+
       "pdf": "assets/pdf/asml-value-chain.pdf",
-      "summary": "PLACEHOLDER — replace with a 2–3 line summary of BI-001. This is the text shown on the homepage card, so it should tease the argument without giving away the conclusion.",
-      "executiveSummary": "PLACEHOLDER — replace with the full executive summary for BI-001. This appears at the top of the report page, above the embedded PDF, and should stand alone as a two-to-four sentence brief of the research question, the evidence, and the conclusion.",
+
+      "summary": "PLACEHOLDER — 2–3 line homepage summary that encourages readers to open the report.",
+
+      "executiveSummary": "PLACEHOLDER — Full executive summary shown on the report page before the PDF.",
+
       "businessLessons": [
-        "PLACEHOLDER — first business lesson from BI-001.",
-        "PLACEHOLDER — second business lesson from BI-001."
-      ]
+        "PLACEHOLDER — Lesson 1",
+        "PLACEHOLDER — Lesson 2",
+        "PLACEHOLDER — Lesson 3"
+      ],
+
+      "researchQuestion": "Why hasn't anyone successfully copied ASML?",
+
+      "difficulty": "Intermediate",
+
+      "language": "English",
+
+      "author": {
+        "name": "Bhavesh Patil",
+        "linkedin": "https://linkedin.com/in/bhavesh-patil-856795227",
+        "github": "https://github.com/bhaveshhpatill"
+      },
+
+      "relatedReports": [
+        "BI-002",
+        "BI-003"
+      ],
+
+      "seo": {
+        "title": "Why hasn't anyone copied ASML? | Business Reports",
+        "description": "Business investigation into ASML's value chain, competitive advantage, and barriers to replication.",
+        "keywords": [
+          "ASML",
+          "Value Chain",
+          "Semiconductor",
+          "Business Strategy",
+          "Competitive Advantage"
+        ]
+      }
     }
   ]
 }
