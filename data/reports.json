@@ -15,9 +15,11 @@
 
       "tags": [
         "Value Chain",
+        "Michael Porter",
         "Semiconductors",
         "Competitive Advantage",
         "Manufacturing",
+        "Business Strategy",
         "Innovation"
       ],
 
@@ -35,21 +37,42 @@
 
       "pdf": "assets/pdf/asml-value-chain.pdf",
 
-      "summary": "PLACEHOLDER — 2–3 line homepage summary that encourages readers to open the report.",
+      "summary": "Why hasn't anyone successfully copied ASML? This investigation explores ASML's value chain using Michael Porter's framework to understand how decades of supplier collaboration, engineering expertise, manufacturing excellence, and continuous customer feedback have created one of the strongest competitive advantages in modern industry.",
 
-      "executiveSummary": "PLACEHOLDER — Full executive summary shown on the report page before the PDF.",
+      "executiveSummary": "This report investigates why ASML has become one of the world's most strategically important companies despite being largely unknown outside the semiconductor industry. Rather than focusing only on its products, the report analyzes ASML through Michael Porter's Value Chain framework to understand how value is created across research, supplier collaboration, engineering, manufacturing, customer installation, service, and continuous learning. The investigation concludes that ASML's competitive advantage is not built on a single machine but on an integrated system of activities that has compounded over decades, making its value chain far more difficult to replicate than its products alone.",
 
       "businessLessons": [
-        "PLACEHOLDER — Lesson 1",
-        "PLACEHOLDER — Lesson 2",
-        "PLACEHOLDER — Lesson 3"
+        "Competitive advantage rarely comes from one exceptional product. It is built through a system of activities that reinforce one another over time.",
+        "Long-term supplier relationships, customer collaboration, and continuous learning can become strategic assets that competitors cannot easily replicate.",
+        "Products can often be reverse-engineered, but value chains built through decades of accumulated capabilities are significantly harder to copy."
       ],
 
       "researchQuestion": "Why hasn't anyone successfully copied ASML?",
 
+      "keyFindings": [
+        "ASML's competitive advantage comes from an integrated value chain rather than a single technological breakthrough.",
+        "Supplier collaboration is a core capability developed through decades of co-engineering with highly specialized partners.",
+        "Customer installation, service, and continuous feedback create a learning loop that strengthens every future generation of products.",
+        "The company's value chain compounds over time, making replication increasingly difficult for competitors."
+      ],
+
+      "businessPrinciple": "Companies achieve sustainable competitive advantage by building interconnected systems of capabilities rather than relying on individual products or technologies.",
+
+      "frameworks": [
+        "Michael Porter's Value Chain",
+        "Competitive Advantage"
+      ],
+
       "difficulty": "Intermediate",
 
       "language": "English",
+
+      "sources": [
+        "ASML Annual Report",
+        "ASML Investor Presentations",
+        "ASML Official Website",
+        "Michael Porter — Competitive Advantage"
+      ],
 
       "author": {
         "name": "Bhavesh Patil",
@@ -64,13 +87,15 @@
 
       "seo": {
         "title": "Why hasn't anyone copied ASML? | Business Reports",
-        "description": "Business investigation into ASML's value chain, competitive advantage, and barriers to replication.",
+        "description": "A business investigation into ASML's value chain using Michael Porter's framework to understand why its competitive advantage is so difficult to replicate.",
         "keywords": [
           "ASML",
           "Value Chain",
-          "Semiconductor",
+          "Michael Porter",
+          "Competitive Advantage",
           "Business Strategy",
-          "Competitive Advantage"
+          "Semiconductor Equipment",
+          "Innovation"
         ]
       }
     }
