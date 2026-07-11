@@ -463,7 +463,7 @@ p {
 .site-nav {
     display: flex;
     align-items: center;
-    gap: 2rem;
+    gap: 15px;
 }
 
 .site-nav a {
