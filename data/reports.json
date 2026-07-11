@@ -1,0 +1,20 @@
+{
+  "reports": [
+    {
+      "id": "BI-001",
+      "title": "Why hasn't anyone copied ASML?",
+      "company": "ASML",
+      "industry": "Semiconductor Equipment",
+      "topic": "Value Chain",
+      "published": "2026-07-01",
+      "coverImage": "assets/images/asml-cover.svg",
+      "pdf": "assets/pdf/asml-value-chain.pdf",
+      "summary": "PLACEHOLDER — replace with a 2–3 line summary of BI-001. This is the text shown on the homepage card, so it should tease the argument without giving away the conclusion.",
+      "executiveSummary": "PLACEHOLDER — replace with the full executive summary for BI-001. This appears at the top of the report page, above the embedded PDF, and should stand alone as a two-to-four sentence brief of the research question, the evidence, and the conclusion.",
+      "businessLessons": [
+        "PLACEHOLDER — first business lesson from BI-001.",
+        "PLACEHOLDER — second business lesson from BI-001."
+      ]
+    }
+  ]
+}
