@@ -17,6 +17,7 @@
         "Value Chain",
         "Michael Porter",
         "Semiconductors",
+
         "Competitive Advantage",
         "Manufacturing",
         "Business Strategy",
@@ -98,6 +99,98 @@
           "Innovation"
         ]
       }
+    },
+    {
+      "id": "BI-002",
+      "slug": "how-carl-zeiss-built-uncopyable-capabilities",
+
+      "title": "How Carl Zeiss Built Uncopyable Capabilities",
+      "subtitle": "Capability Building at Carl Zeiss SMT",
+
+      "company": "Carl Zeiss SMT",
+      "industry": "Semiconductor Equipment",
+      "sector": "Technology",
+
+      "topic": "Capability Building",
+
+      "tags": [
+        "Capability Building",
+        "Carl Zeiss SMT",
+        "Semiconductors",
+        "Innovation",
+        "Business Strategy"
+      ],
+
+      "status": "published",
+      "featured": false,
+
+      "published": "2026-07-03",
+      "lastUpdated": "2026-07-03",
+      "version": "1.0",
+
+      "readingTime": "14 min",
+
+      "coverImage": "assets/images/zeiss_cover.png",
+      "thumbnail": "assets/images/zeiss_cover.png",
+
+      "pdf": "assets/pdf/Carl_Zeiss_Capability_Building.pdf",
+
+      "summary": "This report examines how Carl Zeiss SMT developed capabilities that competitors cannot easily replicate through decades of precision engineering, scientific research, supplier collaboration, and long-term investment.",
+
+      "executiveSummary": "Rather than focusing on products alone, this investigation studies how Carl Zeiss SMT accumulated unique technological capabilities over decades. These capabilities enabled the company to become ASML's critical partner in EUV lithography.",
+
+      "businessLessons": [
+        "Capabilities compound over time.",
+        "Deep specialization creates strategic advantage.",
+        "Long-term R&D investment is difficult to imitate."
+      ],
+
+      "researchQuestion": "How did Carl Zeiss SMT build capabilities that competitors struggle to replicate?",
+
+      "keyFindings": [
+        "Precision optics capabilities were built over decades.",
+        "Long-term collaboration with ASML accelerated learning.",
+        "Scientific expertise became a strategic asset."
+      ],
+
+      "businessPrinciple": "Capabilities—not products—form the foundation of sustainable competitive advantage.",
+
+      "frameworks": [
+        "Capability Building"
+      ],
+
+      "difficulty": "Intermediate",
+
+      "language": "English",
+
+      "sources": [
+        "ZEISS Annual Report",
+        "ZEISS Official Website",
+        "ASML Annual Report"
+      ],
+
+      "author": {
+        "name": "Bhavesh Patil",
+        "linkedin": "https://www.linkedin.com/in/bhaveshh-patill",
+        "github": "https://github.com/bhaveshhpatill"
+      },
+
+      "relatedReports": [
+        "BI-001",
+        "BI-003"
+      ],
+
+      "seo": {
+        "title": "How Carl Zeiss Built Uncopyable Capabilities | Business Reports",
+        "description": "Business investigation into Carl Zeiss SMT's capability-building strategy.",
+        "keywords": [
+          "Carl Zeiss SMT",
+          "Capability Building",
+          "Business Strategy",
+          "Semiconductors"
+        ]
+      }
     }
   ]
 }
+  
