@@ -284,7 +284,103 @@
       "Semiconductors"
      ]
    }
+  },
+  {
+  "id": "BI-004",
+  "slug": "how-tsmc-became-the-industry-bottleneck",
+
+  "title": "How TSMC Became the Industry Bottleneck",
+  "subtitle": "Understanding Strategic Bottlenecks",
+
+  "company": "TSMC",
+  "industry": "Semiconductor Foundry",
+  "sector": "Technology",
+
+  "topic": "Strategic Bottleneck",
+
+  "tags": [
+    "Strategic Bottleneck",
+    "TSMC",
+    "Semiconductors",
+    "Competitive Advantage",
+    "Industry Structure"
+  ],
+
+  "status": "published",
+  "featured": false,
+
+  "published": "2026-07-19",
+  "lastUpdated": "2026-07-19",
+  "version": "1.0",
+
+  "readingTime": "14 min",
+
+  "coverImage": "assets/images/tsmc-cover.png",
+
+  "thumbnail": "assets/images/tsmc-cover.png",
+
+  "pdf": "assets/pdf/BI-004_TSMC_Bottleneck.pdf",
+
+  "summary": "This investigation explains how TSMC became the semiconductor industry's most important bottleneck by building manufacturing capabilities, deep customer relationships, and continuous technological leadership that competitors struggle to replicate.",
+
+  "executiveSummary": "This report applies the Strategic Bottleneck framework to Taiwan Semiconductor Manufacturing Company (TSMC). Rather than competing on products alone, TSMC positioned itself as the indispensable manufacturing partner for the world's leading chip designers. Through decades of process innovation, enormous capital investment, close collaboration with equipment suppliers such as ASML, and deep customer trust, TSMC created a structural bottleneck that controls the flow of advanced semiconductor production.",
+
+  "businessLessons": [
+    "The company controlling the bottleneck often captures the greatest strategic power.",
+    "Structural positions are harder to replace than individual products.",
+    "Continuous capability building widens the bottleneck every generation."
+  ],
+
+  "researchQuestion": "How did TSMC become the semiconductor industry's strategic bottleneck?",
+
+  "keyFindings": [
+    "TSMC dominates advanced chip manufacturing through decades of process innovation.",
+    "Its relationships with customers and suppliers reinforce its competitive position.",
+    "Massive capital investment creates significant barriers to entry.",
+    "Each technology generation strengthens TSMC's leadership and industry dependence."
+  ],
+
+  "businessPrinciple": "Businesses create lasting competitive advantage by controlling critical constraints that the rest of the industry depends upon.",
+
+  "frameworks": [
+    "Strategic Bottleneck"
+  ],
+
+  "difficulty": "Intermediate",
+
+  "language": "English",
+
+  "sources": [
+    "TSMC Annual Report",
+    "TSMC Investor Relations",
+    "ASML Annual Report",
+    "Industry Research"
+  ],
+
+  "author": {
+    "name": "Bhavesh Patil",
+    "linkedin": "https://www.linkedin.com/in/bhaveshh-patill",
+    "github": "https://github.com/bhaveshhpatill"
+  },
+
+  "relatedReports": [
+    "BI-001",
+    "BI-002",
+    "BI-003"
+  ],
+
+  "seo": {
+    "title": "How TSMC Became the Industry Bottleneck | Business Reports",
+    "description": "Business investigation into TSMC's strategic bottleneck and how it became indispensable to the semiconductor industry.",
+    "keywords": [
+      "TSMC",
+      "Strategic Bottleneck",
+      "Semiconductors",
+      "Competitive Advantage",
+      "Industry Structure"
+    ]
   }
+}
   ]
 }
   
