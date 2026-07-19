@@ -381,106 +381,106 @@
     ]
   }
 },
-{
-  "id": "BI-005",
-  "slug": "why-great-companies-dont-win-alone",
+      {
+      "id": "BI-005",
+      "slug": "why-great-companies-dont-win-alone",
 
-  "title": "Why Great Companies Don't Win Alone",
-  "subtitle": "Understanding Ecosystem Strategy",
+      "title": "Why Great Companies Don't Win Alone",
+      "subtitle": "Understanding Ecosystem Strategy",
 
-  "company": "Synopsys",
-  "industry": "Electronic Design Automation (EDA)",
-  "sector": "Technology",
+      "company": "Synopsys",
+      "industry": "Electronic Design Automation (EDA)",
+      "sector": "Technology",
 
-  "topic": "Ecosystem Strategy",
+      "topic": "Ecosystem Strategy",
 
-  "tags": [
-    "Ecosystem Strategy",
-    "Synopsys",
-    "Semiconductors",
-    "EDA",
-    "Business Strategy",
-    "Innovation"
-  ],
+      "tags": [
+        "Ecosystem Strategy",
+        "Synopsys",
+        "Semiconductors",
+        "EDA",
+        "Business Strategy",
+        "Innovation"
+      ],
 
-  "status": "published",
-  "featured": false,
+      "status": "published",
+      "featured": false,
 
-  "published": "2026-07-19",
-  "lastUpdated": "2026-07-19",
-  "version": "1.0",
+      "published": "2026-07-19",
+      "lastUpdated": "2026-07-19",
+      "version": "1.0",
 
-  "readingTime": "13 min",
+      "readingTime": "13 min",
 
-  "coverImage": "assets/images/synopsys-cover.png",
+      "coverImage": "assets/images/synopsys-cover.png",
 
-  "thumbnail": "assets/images/synopsys-cover.png",
+      "thumbnail": "assets/images/synopsys-cover.png",
 
-  "pdf": "assets/pdf/BI-005_Synopsys_Ecosystem.pdf",
+      "pdf": "assets/pdf/BI-005_Synopsys_Ecosystem.pdf",
 
-  "summary": "This investigation explains why great companies rarely succeed alone. Using Synopsys as the central example, it explores how ecosystems of specialized companies create more value together than any company could create independently.",
+      "summary": "This investigation explains why great companies rarely succeed alone. Using Synopsys as the central example, it explores how ecosystems of specialized companies create more value together than any company could create independently.",
 
-  "executiveSummary": "This report applies the Ecosystem Strategy framework to Synopsys, demonstrating how modern semiconductor innovation depends on collaboration between specialized companies rather than vertical integration. Synopsys provides the design software that enables companies such as NVIDIA, Apple, AMD, and Qualcomm to build advanced chips, while partnering closely with TSMC, ASML, Arm, and other ecosystem participants. The investigation concludes that long-term competitive advantage increasingly belongs to companies that enable others to succeed.",
+      "executiveSummary": "This report applies the Ecosystem Strategy framework to Synopsys, demonstrating how modern semiconductor innovation depends on collaboration between specialized companies rather than vertical integration. Synopsys provides the design software that enables companies such as NVIDIA, Apple, AMD, and Qualcomm to build advanced chips, while partnering closely with TSMC, ASML, Arm, and other ecosystem participants. The investigation concludes that long-term competitive advantage increasingly belongs to companies that enable others to succeed.",
 
-  "businessLessons": [
-    "Great companies specialize instead of trying to master every capability.",
-    "The strongest businesses increase the productivity of an entire ecosystem.",
-    "Competitive advantage increasingly belongs to networks rather than isolated companies."
-  ],
+      "businessLessons": [
+        "Great companies specialize instead of trying to master every capability.",
+        "The strongest businesses increase the productivity of an entire ecosystem.",
+        "Competitive advantage increasingly belongs to networks rather than isolated companies."
+      ],
 
-  "researchQuestion": "Why can't great companies succeed alone?",
+      "researchQuestion": "Why can't great companies succeed alone?",
 
-  "keyFindings": [
-    "Modern semiconductor innovation depends on specialized ecosystem partners.",
-    "Synopsys enables rather than replaces its customers.",
-    "Every ecosystem participant contributes a unique capability.",
-    "Knowledge sharing across trusted partners accelerates industry innovation."
-  ],
+      "keyFindings": [
+        "Modern semiconductor innovation depends on specialized ecosystem partners.",
+        "Synopsys enables rather than replaces its customers.",
+        "Every ecosystem participant contributes a unique capability.",
+        "Knowledge sharing across trusted partners accelerates industry innovation."
+      ],
 
-  "businessPrinciple": "Companies achieve durable competitive advantage by becoming indispensable within an ecosystem rather than attempting to own every activity themselves.",
+      "businessPrinciple": "Companies achieve durable competitive advantage by becoming indispensable within an ecosystem rather than attempting to own every activity themselves.",
 
-  "frameworks": [
-    "Ecosystem Strategy"
-  ],
+      "frameworks": [
+        "Ecosystem Strategy"
+      ],
 
-  "difficulty": "Intermediate",
+      "difficulty": "Intermediate",
 
-  "language": "English",
+      "language": "English",
 
-  "sources": [
-    "Synopsys Annual Report",
-    "Synopsys Investor Relations",
-    "TSMC Open Innovation Platform",
-    "Arm Documentation",
-    "Semiconductor Industry Association"
-  ],
+      "sources": [
+        "Synopsys Annual Report",
+        "Synopsys Investor Relations",
+        "TSMC Open Innovation Platform",
+        "Arm Documentation",
+        "Semiconductor Industry Association"
+      ],
 
-  "author": {
-    "name": "Bhavesh Patil",
-    "linkedin": "https://www.linkedin.com/in/bhaveshh-patill",
-    "github": "https://github.com/bhaveshhpatill"
-  },
+      "author": {
+        "name": "Bhavesh Patil",
+        "linkedin": "https://www.linkedin.com/in/bhaveshh-patill",
+        "github": "https://github.com/bhaveshhpatill"
+      },
 
-  "relatedReports": [
-    "BI-001",
-    "BI-002",
-    "BI-003",
-    "BI-004"
-  ],
+      "relatedReports": [
+        "BI-001",
+        "BI-002",
+        "BI-003",
+        "BI-004"
+      ],
 
-  "seo": {
-    "title": "Why Great Companies Don't Win Alone | Business Reports",
-    "description": "Business investigation into Synopsys and Ecosystem Strategy, explaining why modern competitive advantage is built through networks of specialized companies.",
-    "keywords": [
-      "Synopsys",
-      "Ecosystem Strategy",
-      "EDA",
-      "Semiconductors",
-      "Business Strategy",
-      "Innovation"
-    ]
-  }
-}
+      "seo": {
+        "title": "Why Great Companies Don't Win Alone | Business Reports",
+        "description": "Business investigation into Synopsys and Ecosystem Strategy, explaining why modern competitive advantage is built through networks of specialized companies.",
+        "keywords": [
+          "Synopsys",
+          "Ecosystem Strategy",
+          "EDA",
+          "Semiconductors",
+          "Business Strategy",
+          "Innovation"
+        ]
+      }
+    }
   ]
 }
   
